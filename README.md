@@ -1,5 +1,7 @@
 # assembly
 các bài tập cơ bản của assembly
+Note: chỉ để tham khảo.
+
 I. Xử lý về số học
 
 1. Viết chương trình hợp ngữ với chức năng sau:
