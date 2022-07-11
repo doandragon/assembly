@@ -1,6 +1,7 @@
 # assembly
 các bài tập cơ bản của assembly
 I. Xử lý về số học
+
 1. Viết chương trình hợp ngữ với chức năng sau:
 a. Nhập vào mã sinh viên và hiển thị đúng tên của mình.
 b. Tính n! trong đó n nhập từ bàn phím.
@@ -27,6 +28,7 @@ b. Nhập vào một số hệ thập phân hiển thị các giá trị đổi 
 phân (16 bit)
 
 II. Xử lý chuỗi ký tự
+
 7. Viết chương trình hợp ngữ với chức năng sau:
 a. Nhập vào mã sinh viên và hiển thị đúng đúng tên của mình.
 b. Đổi tất cả các ký tự in thường thành in HOA trong chuỗi ký tự nhập vào từ bàn
@@ -50,6 +52,7 @@ a. Nhập vào mã sinh viên và hiển thị đúng đúng tên của mình.
 b. Nhập vào một chuỗi, đếm số ký tự trong chuỗi
 
 III. Xử lý tệp tin
+
 12.Viết chương trình hợp ngữ với chức năng sau:
 a. Nhập vào họ tên sinh viên và hiển thị đúng MSV của mình.
 b. Tạo một tệp tin mới, tên tập tin nhập từ bàn phím, ghi nội dung vào tệp tin nhập
